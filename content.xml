@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260506174320ABO1TP</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202605061743203BVFR2</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>La asamblea de Lilo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778081533369</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-1778078219737-9pnge8gnu</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778078219737-9pnge8gnu</odePageId>
+      <odeBlockId>block-1778080720249-bkdhtz21n</odeBlockId>
+      <blockName>Tabla de tareas y criterios de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778078219737-9pnge8gnu</odePageId>
+          <odeBlockId>block-1778080720249-bkdhtz21n</odeBlockId>
+          <odeIdeviceId>idevice-1778080720246-dzecrql5a</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Pincha en el siguiente enlace para acceder: <a href="https://docs.google.com/document/d/1nJtizALd0O45zNE3FAsWhto1DyjySzSdNK-1yasMGMs/edit?tab=t.0#heading=h.v3kpl8zcktok" title="">TABLA</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778080720246-dzecrql5a","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Pincha en el siguiente enlace para acceder: <a href=\"https://docs.google.com/document/d/1nJtizALd0O45zNE3FAsWhto1DyjySzSdNK-1yasMGMs/edit?tab=t.0#heading=h.v3kpl8zcktok\" title=\"\">TABLA</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778078021106-5uxxd7m3a</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Tarea 2.1: Presentación y descripción del proyecto</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 2.1: Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Tarea 2.1: Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778078021106-5uxxd7m3a</odePageId>
+      <odeBlockId>block-1778078400812-m9ashpsek</odeBlockId>
+      <blockName>Presentación y descripción del proyecto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778078021106-5uxxd7m3a</odePageId>
+          <odeBlockId>block-1778078400812-m9ashpsek</odeBlockId>
+          <odeIdeviceId>idevice-1778078400807-yy3lt57fu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para acceder a esta actividad, pinche en este enlace: <a href="https://canva.link/gatof03cb3xc27p" target="_blank" title="" rel="noopener">Tarea 2.1</a></p>
+<p><img src="{{context_path}}/content/resources/La asamblea de Lilo.png" width="1366" height="768" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778078400807-yy3lt57fu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para acceder a esta actividad, pinche en este enlace: <a href=\"https://canva.link/gatof03cb3xc27p\" target=\"_blank\" title=\"\" rel=\"noopener\">Tarea 2.1</a></p>\n<p><img src=\"{{context_path}}/content/resources/La asamblea de Lilo.png\" width=\"1366\" height=\"768\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778078048637-xvhdj2vua</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Tarea 2.3: Protección de datos personales.</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 2.3: Protección de datos personales.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Tarea 2.3: Protección de datos personales.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778078048637-xvhdj2vua</odePageId>
+      <odeBlockId>block-1778079004160-tsdpivqao</odeBlockId>
+      <blockName>INFOGRAFÍA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778078048637-xvhdj2vua</odePageId>
+          <odeBlockId>block-1778079004160-tsdpivqao</odeBlockId>
+          <odeIdeviceId>idevice-1778079004159-xsv69wgul</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para acceder a esta actividad, pinche en este enlace: <a href="https://canva.link/7ehzpq0e503oe41" target="_blank" title="" rel="noopener">TAREA 2.3</a></p>
+<p><img src="{{context_path}}/content/resources/Infografía Lilo.jpg" width="253" height="358" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778079004159-xsv69wgul","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para acceder a esta actividad, pinche en este enlace: <a href=\"https://canva.link/7ehzpq0e503oe41\" target=\"_blank\" title=\"\" rel=\"noopener\">TAREA 2.3</a></p>\n<p><img src=\"{{context_path}}/content/resources/Infografía Lilo.jpg\" width=\"253\" height=\"358\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778078125269-8j8hwv3n2</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Tarea 4.1: Descripción del producto final</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 4.1: Descripción del producto final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778078125269-8j8hwv3n2</odePageId>
+      <odeBlockId>block-1778079282597-l643sc3np</odeBlockId>
+      <blockName>Comentario en el foro del aula virtual</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778078125269-8j8hwv3n2</odePageId>
+          <odeBlockId>block-1778079282597-l643sc3np</odeBlockId>
+          <odeIdeviceId>idevice-1778079282594-icbg52582</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para el producto final de mi proyecto, basado en la propuesta de la actividad 2.1 “La asamblea de Lilo”, utilizaré Genially como herramienta digital principal. El objetivo es crear una asamblea interactiva protagonizada por Lilo, el mono mascota de la clase, que ayude al alumnado de 4 años a trabajar rutinas diarias como pasar lista, identificar el día de la semana, observar el tiempo, expresar emociones, recordar normas y anticipar la jornada.</p>
+<p>He elegido Genially porque es una herramienta visual, intuitiva y motivadora, adecuada para la edad y características de mi alumnado. Permite incluir imágenes, botones, sonidos e interacciones sencillas, favoreciendo la atención, la participación oral y la comprensión de las rutinas.</p>
+<p>Además, se adapta al contexto del centro, ya que puede utilizarse desde la PDI del aula, sin necesidad de que cada niño o niña disponga de un dispositivo individual. Esto permite un uso accesible, guiado y ajustado a la competencia digital del alumnado de Infantil. Como medida de previsión, mantendré un plan B con tarjetas, pictogramas y materiales manipulativos por si falla la PDI, los altavoces o la conexión.</p>
+<p>Por todo ello, considero que Genially es una herramienta adecuada para desarrollar mi producto final, ya que contribuye a integrar la tecnología de forma segura, selectiva y adaptada al contexto real del aula.</p>
+<p><img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-06 165545.png" width="598" height="235" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778079282594-icbg52582","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para el producto final de mi proyecto, basado en la propuesta de la actividad 2.1 “La asamblea de Lilo”, utilizaré Genially como herramienta digital principal. El objetivo es crear una asamblea interactiva protagonizada por Lilo, el mono mascota de la clase, que ayude al alumnado de 4 años a trabajar rutinas diarias como pasar lista, identificar el día de la semana, observar el tiempo, expresar emociones, recordar normas y anticipar la jornada.</p>\n<p>He elegido Genially porque es una herramienta visual, intuitiva y motivadora, adecuada para la edad y características de mi alumnado. Permite incluir imágenes, botones, sonidos e interacciones sencillas, favoreciendo la atención, la participación oral y la comprensión de las rutinas.</p>\n<p>Además, se adapta al contexto del centro, ya que puede utilizarse desde la PDI del aula, sin necesidad de que cada niño o niña disponga de un dispositivo individual. Esto permite un uso accesible, guiado y ajustado a la competencia digital del alumnado de Infantil. Como medida de previsión, mantendré un plan B con tarjetas, pictogramas y materiales manipulativos por si falla la PDI, los altavoces o la conexión.</p>\n<p>Por todo ello, considero que Genially es una herramienta adecuada para desarrollar mi producto final, ya que contribuye a integrar la tecnología de forma segura, selectiva y adaptada al contexto real del aula.</p>\n<p><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-05-06 165545.png\" width=\"598\" height=\"235\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778078139043-sjw7cdufd</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Tarea 5.1: Herramientas de curación</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 5.1: Herramientas de curación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778078139043-sjw7cdufd</odePageId>
+      <odeBlockId>block-1778079526739-2aluzntf5</odeBlockId>
+      <blockName>CURACIÓN DE CONTENIDO</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778078139043-sjw7cdufd</odePageId>
+          <odeBlockId>block-1778079526739-2aluzntf5</odeBlockId>
+          <odeIdeviceId>idevice-1778079526737-9y3punlc2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para esta tarea he realizado dos curaciones de contenidos utilizando dos herramientas diferentes.<br />La primera se ha elaborado en Padlet y recoge recursos que utilizaré para la creación del producto final en eXeLearning, dentro del proyecto “La asamblea de Lilo”.</p>
+<p>Pinche aquí para acceder al enlace: <a href="https://padlet.com/evagomezponce1996/recursos-para-el-producto-final-la-asamblea-de-lilo-uqp50o3lupy3ue2t" target="_blank" title="" rel="noopener">PADLET </a></p>
+<p>La segunda se ha elaborado en Symbaloo y recoge herramientas digitales que utilizo habitualmente en mi práctica docente diaria en un aula de 4 años. </p>
+<p>Pinche aquí para acceder al enlace: <a href="https://www.symbaloo.com/shared/AAAAA9UaPSMAA41_W3OuXw==" target="_blank" rel="noopener" title="">https://www.symbaloo.com/shared/AAAAA9UaPSMAA41_W3OuXw==</a></p>
+<p>Ambas selecciones se han realizado teniendo en cuenta la edad del alumnado, la accesibilidad, la seguridad y la utilidad pedagógica de los recursos.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778079526737-9y3punlc2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para esta tarea he realizado dos curaciones de contenidos utilizando dos herramientas diferentes.<br />La primera se ha elaborado en Padlet y recoge recursos que utilizaré para la creación del producto final en eXeLearning, dentro del proyecto “La asamblea de Lilo”.</p>\n<p>Pinche aquí para acceder al enlace: <a href=\"https://padlet.com/evagomezponce1996/recursos-para-el-producto-final-la-asamblea-de-lilo-uqp50o3lupy3ue2t\" target=\"_blank\" title=\"\" rel=\"noopener\">PADLET </a></p>\n<p>La segunda se ha elaborado en Symbaloo y recoge herramientas digitales que utilizo habitualmente en mi práctica docente diaria en un aula de 4 años. </p>\n<p>Pinche aquí para acceder al enlace: <a href=\"https://www.symbaloo.com/shared/AAAAA9UaPSMAA41_W3OuXw==\" target=\"_blank\" rel=\"noopener\" title=\"\">https://www.symbaloo.com/shared/AAAAA9UaPSMAA41_W3OuXw==</a></p>\n<p>Ambas selecciones se han realizado teniendo en cuenta la edad del alumnado, la accesibilidad, la seguridad y la utilidad pedagógica de los recursos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778078155583-4cpcupgry</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Tarea 7.1: Línea temporal</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 7.1: Línea temporal</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778078155583-4cpcupgry</odePageId>
+      <odeBlockId>block-1778079770480-1ag7bqr7h</odeBlockId>
+      <blockName>Mapa conceptual línea temporal de la actividad</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778078155583-4cpcupgry</odePageId>
+          <odeBlockId>block-1778079770480-1ag7bqr7h</odeBlockId>
+          <odeIdeviceId>idevice-1778079770479-scxkdoput</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta línea temporal organiza las tareas del proyecto “La asamblea de Lilo”, dirigido a un aula de 4 años. En ella se recogen las actividades que realizará el alumnado, la organización temporal, los agrupamientos, los espacios, las herramientas digitales y los recursos técnicos necesarios.</p>
+<p>La propuesta combina el uso de Genially, PDI, YouTube, ARASAAC, cámara y grabadora de voz con una organización flexible y adaptada al contexto del aula de Educación Infantil.</p>
+<p><a href="https://canva.link/4kcgwj3vyno4ffq" target="_blank" title="" rel="noopener">Mapa conceptual línea temporal de la actividad</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778079770479-scxkdoput","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta línea temporal organiza las tareas del proyecto “La asamblea de Lilo”, dirigido a un aula de 4 años. En ella se recogen las actividades que realizará el alumnado, la organización temporal, los agrupamientos, los espacios, las herramientas digitales y los recursos técnicos necesarios.</p>\n<p>La propuesta combina el uso de Genially, PDI, YouTube, ARASAAC, cámara y grabadora de voz con una organización flexible y adaptada al contexto del aula de Educación Infantil.</p>\n<p><a href=\"https://canva.link/4kcgwj3vyno4ffq\" target=\"_blank\" title=\"\" rel=\"noopener\">Mapa conceptual línea temporal de la actividad</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778078167430-zvbj1etfs</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Tarea 6.1: Criterios de evaluación</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 6.1: Criterios de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778078167430-zvbj1etfs</odePageId>
+      <odeBlockId>block-1778079922700-tfzn7fi0w</odeBlockId>
+      <blockName>Tabla de criterio de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778078167430-zvbj1etfs</odePageId>
+          <odeBlockId>block-1778079922700-tfzn7fi0w</odeBlockId>
+          <odeIdeviceId>idevice-1778079922698-jkol4td0f</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Aquí está el enlace a la plantilla de dicha actividad. </p>
+<p><a href="https://docs.google.com/document/d/1nJtizALd0O45zNE3FAsWhto1DyjySzSdNK-1yasMGMs/edit?usp=sharing" title="">Asociamos tareas a Criterios de evaluación</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778079922698-jkol4td0f","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Aquí está el enlace a la plantilla de dicha actividad. </p>\n<p><a href=\"https://docs.google.com/document/d/1nJtizALd0O45zNE3FAsWhto1DyjySzSdNK-1yasMGMs/edit?usp=sharing\" title=\"\">Asociamos tareas a Criterios de evaluación</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778078186976-ln42lkkvt</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Tarea 8.1: Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 8.1: Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778078186976-ln42lkkvt</odePageId>
+      <odeBlockId>block-1778080036623-6r6k91mtd</odeBlockId>
+      <blockName>Canva con instrumentos de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778078186976-ln42lkkvt</odePageId>
+          <odeBlockId>block-1778080036623-6r6k91mtd</odeBlockId>
+          <odeIdeviceId>idevice-1778080036621-1jp4f25rz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A continuación, se presentan tres ejemplos de instrumentos de evaluación aplicados al proyecto “La asamblea de Lilo”. Estos instrumentos permiten recoger información sobre la participación, la autonomía, la comunicación oral, el uso guiado de la tecnología y la resolución de pequeños problemas en un aula de 4 años.</p>
+<p><a href="https://canva.link/tohy76jaixk20ff" title="">Instrumentos de evaluación</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778080036621-1jp4f25rz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación, se presentan tres ejemplos de instrumentos de evaluación aplicados al proyecto “La asamblea de Lilo”. Estos instrumentos permiten recoger información sobre la participación, la autonomía, la comunicación oral, el uso guiado de la tecnología y la resolución de pequeños problemas en un aula de 4 años.</p>\n<p><a href=\"https://canva.link/tohy76jaixk20ff\" title=\"\">Instrumentos de evaluación</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778078196378-4acjrp0a1</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778078196378-4acjrp0a1</odePageId>
+      <odeBlockId>block-1778081418756-h3hb0ozhx</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778078196378-4acjrp0a1</odePageId>
+          <odeBlockId>block-1778081418756-h3hb0ozhx</odeBlockId>
+          <odeIdeviceId>idevice-1778081418753-wnv928vgw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Autoría:</strong><br />Este recurso educativo ha sido elaborado por:</p>
+<p>Eva Gómez Ponce<br />Docente de Educación Infantil, aula de 4 años.</p>
+<p><strong>Descripción del recurso:</strong><br />“La asamblea de Lilo” es un proyecto dirigido al alumnado de Educación Infantil de 4 años. Su finalidad es trabajar las rutinas diarias de la asamblea mediante un Genially interactivo protagonizado por Lilo, el mono mascota de la clase.</p>
+<p>El recurso integra el uso de la PDI, Genially, canciones, pictogramas, fotografías, audios y materiales manipulativos para favorecer la participación, la autonomía, la comunicación oral, la competencia digital y el uso seguro de la tecnología.</p>
+<p><strong>Licencia de uso:</strong><br />Este recurso se comparte con fines educativos.</p>
+<p><strong>Licencia recomendada:</strong><br />Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional<br />CC BY-NC-SA 4.0</p>
+<p>Esto significa que otras personas pueden utilizar y adaptar el recurso siempre que reconozcan la autoría, no lo usen con fines comerciales y compartan las adaptaciones con la misma licencia.</p>
+<p><strong>Recursos utilizados:</strong><br />En la elaboración de este proyecto se han utilizado o se prevé utilizar:</p>
+<p>Genially, para la creación de la asamblea digital.<br />ARASAAC, para pictogramas y apoyos visuales.<br />YouTube, para canciones seleccionadas previamente.<br />Canva, para el diseño de materiales visuales.<br />eXeLearning 3, para la creación del recurso educativo final.<br /></p>
+<p><strong>Archivo editable:</strong></p>
+<p><a href="https://drive.google.com/file/d/1gfZorfFNLn1_JvmSmHNbGNUkewBad6Zs/view?usp=drive_link">https://drive.google.com/file/d/1gfZorfFNLn1_JvmSmHNbGNUkewBad6Zs/view?usp=drive_link</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778081418753-wnv928vgw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Autoría:</strong><br />Este recurso educativo ha sido elaborado por:</p>\n<p>Eva Gómez Ponce<br />Docente de Educación Infantil, aula de 4 años.</p>\n<p><strong>Descripción del recurso:</strong><br />“La asamblea de Lilo” es un proyecto dirigido al alumnado de Educación Infantil de 4 años. Su finalidad es trabajar las rutinas diarias de la asamblea mediante un Genially interactivo protagonizado por Lilo, el mono mascota de la clase.</p>\n<p>El recurso integra el uso de la PDI, Genially, canciones, pictogramas, fotografías, audios y materiales manipulativos para favorecer la participación, la autonomía, la comunicación oral, la competencia digital y el uso seguro de la tecnología.</p>\n<p><strong>Licencia de uso:</strong><br />Este recurso se comparte con fines educativos.</p>\n<p><strong>Licencia recomendada:</strong><br />Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional<br />CC BY-NC-SA 4.0</p>\n<p>Esto significa que otras personas pueden utilizar y adaptar el recurso siempre que reconozcan la autoría, no lo usen con fines comerciales y compartan las adaptaciones con la misma licencia.</p>\n<p><strong>Recursos utilizados:</strong><br />En la elaboración de este proyecto se han utilizado o se prevé utilizar:</p>\n<p>Genially, para la creación de la asamblea digital.<br />ARASAAC, para pictogramas y apoyos visuales.<br />YouTube, para canciones seleccionadas previamente.<br />Canva, para el diseño de materiales visuales.<br />eXeLearning 3, para la creación del recurso educativo final.<br /></p>\n<p><strong>Archivo editable:</strong></p>\n<p><a href=\"https://drive.google.com/file/d/1gfZorfFNLn1_JvmSmHNbGNUkewBad6Zs/view?usp=drive_link\">https://drive.google.com/file/d/1gfZorfFNLn1_JvmSmHNbGNUkewBad6Zs/view?usp=drive_link</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>

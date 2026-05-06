@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="es" id="exe-page-1778078186976-ln42lkkvt">
+<head>
+<meta charset="utf-8">
+<meta name="generator" content="eXeLearning v4.0.0">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-sa/4.0/">
+<title>Tarea 8.1: Instrumentos de evaluación | La asamblea de Lilo</title>
+<link rel="icon" type="image/x-icon" href="../libs/favicon.ico">
+<script>document.querySelector("html").classList.add("js");</script><script src="../libs/jquery/jquery.min.js"> </script><script src="../libs/common_i18n.js"> </script><script src="../libs/common.js"> </script><script src="../libs/exe_export.js"> </script><script src="../libs/bootstrap/bootstrap.bundle.min.js"> </script><link rel="stylesheet" href="../libs/bootstrap/bootstrap.min.css">
+<script src="../idevices/text/text.js"></script><link rel="stylesheet" href="../idevices/text/text.css">
+<link rel="stylesheet" href="../content/css/base.css"><script src="../theme/style.js"> </script><link rel="stylesheet" href="../theme/style.css">
+</head>
+<body class="exe-export exe-web-site">
+<script>document.body.className+=" js"</script>
+<div class="exe-content exe-export pre-js siteNav-hidden"><a href="#page-1778078186976-ln42lkkvt" id="skipNav">Skip to content</a> <nav id="siteNav">
+<ul>
+<li> <a href="../index.html" class="main-node no-ch">Guía didáctica</a>
+</li>
+<li> <a href="../html/tarea-21-presentacion-y-descripcion-del-proyecto.html" class="no-ch">Tarea 2.1: Presentación y descripción del proyecto</a>
+</li>
+<li> <a href="../html/tarea-23-proteccion-de-datos-personales.html" class="no-ch">Tarea 2.3: Protección de datos personales.</a>
+</li>
+<li> <a href="../html/tarea-41-descripcion-del-producto-final.html" class="no-ch">Tarea 4.1: Descripción del producto final</a>
+</li>
+<li> <a href="../html/tarea-51-herramientas-de-curacion.html" class="no-ch">Tarea 5.1: Herramientas de curación</a>
+</li>
+<li> <a href="../html/tarea-71-linea-temporal.html" class="no-ch">Tarea 7.1: Línea temporal</a>
+</li>
+<li> <a href="../html/tarea-61-criterios-de-evaluacion.html" class="no-ch">Tarea 6.1: Criterios de evaluación</a>
+</li>
+<li class="active"> <a href="../html/tarea-81-instrumentos-de-evaluacion.html" class="active no-ch">Tarea 8.1: Instrumentos de evaluación</a>
+</li>
+<li> <a href="../html/creditos.html" class="no-ch">Créditos</a>
+</li>
+</ul>
+</nav><main id="page-1778078186976-ln42lkkvt" class="page"> 
+<header class="main-header">
+<div class="package-header"><p class="package-title">La asamblea de Lilo</p></div>
+<div class="page-header"><h1 class="page-title">Tarea 8.1: Instrumentos de evaluación</h1></div>
+</header><div id="page-content-page-1778078186976-ln42lkkvt" class="page-content">
+<article id="block-1778080036623-6r6k91mtd" class="box">
+<header class="box-head no-icon">
+<h1 class="box-title">Canva con instrumentos de evaluación</h1>
+<button class="box-toggle box-toggle-on" title="Toggle content">
+<span>Toggle content</span>
+</button></header>
+<div class="box-content">
+<div id="idevice-1778080036621-1jp4f25rz" class="idevice_node text" data-idevice-path="../idevices/text/" data-idevice-type="text" data-idevice-component-type="json" data-idevice-json-data="{&quot;ideviceId&quot;:&quot;idevice-1778080036621-1jp4f25rz&quot;}">
+<div class="exe-text-template">
+    <p>A continuación, se presentan tres ejemplos de instrumentos de evaluación aplicados al proyecto “La asamblea de Lilo”. Estos instrumentos permiten recoger información sobre la participación, la autonomía, la comunicación oral, el uso guiado de la tecnología y la resolución de pequeños problemas en un aula de 4 años.</p>
+<p><a href="https://canva.link/tohy76jaixk20ff" title="">Instrumentos de evaluación</a></p>
+<p></p>
+</div>
+</div>
+</div>
+</article>
+</div></main><div class="nav-buttons">
+<a href="../html/tarea-61-criterios-de-evaluacion.html" title="Anterior" class="nav-button nav-button-left"><span>Anterior</span></a>
+<a href="../html/creditos.html" title="Siguiente" class="nav-button nav-button-right"><span>Siguiente</span></a>
+</div>
+<footer id="siteFooter"><div id="siteFooterContent"> <div id="packageLicense" class="cc cc-by-sa"> <p> <span class="license-label">Licencia: </span><a href="https://creativecommons.org/licenses/by-sa/4.0/" class="license">Creative Commons: Reconocimiento - compartir igual 4.0</a></p>
+</div>
+</div></footer>
+</div>
+<p id="made-with-eXe"> <a href="https://exelearning.net/" target="_blank" rel="noopener"> <span>Creado con eXeLearning <span>(nueva ventana)</span></span></a></p>
+</body>
+</html>
