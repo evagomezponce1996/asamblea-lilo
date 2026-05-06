@@ -1,131 +1,109 @@
-var myTheme = {
-    init: function () {
-        // Common functions
-        if (this.inIframe()) $('body').addClass('in-iframe');
-        if (!$('body').hasClass('exe-web-site')) return;
-        // Add menu and search bar togglers
-        var togglers =
-            '\
-            <button type="button" id="siteNavToggler" class="toggler" title="' +
-            $exe_i18n.menu +
-            '">\
-                <span class="sr-av">' +
-            $exe_i18n.menu +
-            '</span>\
-            </button>\
-            <button type="button" id="searchBarTogger" class="toggler" title="' +
-            $exe_i18n.search +
-            '">\
-                <span class="sr-av">' +
-            $exe_i18n.search +
-            '</span>\
-            </button>\
-        ';
-        $('#siteNav').before(togglers);
-        // Check the current NAV status
-        var url = window.location.href;
-        url = url.split('?');
-        if (url.length > 1) {
-            if (url[1].indexOf('nav=false') != -1) {
-                $('body').addClass('siteNav-off');
-                myTheme.params('add');
-            }
-        }
-        // Menu toggler
-        $('#siteNavToggler').on('click', function () {
-            if (myTheme.isLowRes()) {
-                $('#exe-client-search').hide();
-                if ($('body').hasClass('siteNav-off')) {
-                    $('body').removeClass('siteNav-off');
-                } else {
-                    if ($('#siteNav').isInViewport()) {
-                        $('body').addClass('siteNav-off');
-                        myTheme.params('add');
-                    }
-                }
-                window.scroll(0, 0);
-            } else {
-                $('body').toggleClass('siteNav-off');
-                myTheme.params(
-                    $('body').hasClass('siteNav-off') ? 'add' : 'remove'
-                );
-            }
-        });
-        // Search bar toggler
-        $('#searchBarTogger').on('click', function () {
-            var bar = $('#exe-client-search');
-            if (bar.is(':visible')) {
-                bar.hide();
-            } else {
-                if (myTheme.isLowRes()) {
-                    $('body').addClass('siteNav-off');
-                }
-                bar.show();
-                $('#exe-client-search-text').focus();
-                window.scroll(0, 0);
-            }
-        });
-        if (!this.inIframe()) {
-            // Fixed navigation
-            $('#siteNav').wrap('<div id="sidebar-nav"></div>');
-            myTheme.checkNav();
-            $(window).bind('resize', function () {
-                myTheme.checkNav();
-            });
-        }
-        // Search form
-        this.searchForm();
-    },
-    inIframe: function () {
-        try {
-            return window.self !== window.top;
-        } catch (e) {
-            return true;
-        }
-    },
-    searchForm: function () {
-        $('#exe-client-search-text').attr('class', 'form-control');
-    },
-    isLowRes: function () {
-        return $('#siteNav').css('float') == 'none';
-    },
-    checkNav: function () {
-        var wrapper = $('#sidebar-nav');
-        var navH = $('#siteNav > ul').height(); // Menu height
-        navH = navH + 50;
-        if (navH < $(window).height()) wrapper.addClass('fixed');
-        else wrapper.removeClass('fixed');
-    },
-    param: function (e, act) {
-        if (act == 'add') {
-            var ref = e.href;
-            var con = '?';
-            if (ref.indexOf('.html?') != -1) con = '&';
-            var param = 'nav=false';
-            if (ref.indexOf(param) == -1) {
-                ref += con + param;
-                e.href = ref;
-            }
-        } else {
-            // This will remove all params
-            var ref = e.href;
-            ref = ref.split('?');
-            e.href = ref[0];
-        }
-    },
-    params: function (act) {
-        $('.nav-buttons a').each(function () {
-            myTheme.param(this, act);
-        });
-    },
-};
-$(function () {
-    myTheme.init();
-});
-$.fn.isInViewport = function () {
-    var elementTop = $(this).offset().top;
-    var elementBottom = elementTop + $(this).outerHeight();
-    var viewportTop = $(window).scrollTop();
-    var viewportBottom = viewportTop + $(window).height();
-    return elementBottom > viewportTop && elementTop < viewportBottom;
+/**
+ * ELPX Manifest - Auto-generated for download-source-file iDevice
+ * Used by exe_elpx_download.js to recreate the complete export package
+ */
+window.__ELPX_MANIFEST__={
+  "version": 1,
+  "files": [
+    "index.html",
+    "html/tarea-21-presentacion-y-descripcion-del-proyecto.html",
+    "html/tarea-23-proteccion-de-datos-personales.html",
+    "html/tarea-41-descripcion-del-producto-final.html",
+    "html/tarea-51-herramientas-de-curacion.html",
+    "html/tarea-71-linea-temporal.html",
+    "html/tarea-61-criterios-de-evaluacion.html",
+    "html/tarea-81-instrumentos-de-evaluacion.html",
+    "html/creditos.html",
+    "content.xml",
+    "content/css/base.css",
+    "content/img/exe_powered_logo.png",
+    "theme/style.css",
+    "theme/style.js",
+    "theme/config.xml",
+    "theme/img/icons.png",
+    "theme/img/licenses.gif",
+    "theme/screenshot.png",
+    "theme/icons/stop.png",
+    "theme/icons/video.png",
+    "theme/icons/geography.png",
+    "theme/icons/history.png",
+    "theme/icons/english.png",
+    "theme/icons/guide.png",
+    "theme/icons/think.png",
+    "theme/icons/share.png",
+    "theme/icons/roadmap.png",
+    "theme/icons/info.png",
+    "theme/icons/ask.png",
+    "theme/icons/alert.png",
+    "theme/icons/objectives.png",
+    "theme/icons/math.png",
+    "theme/icons/book.png",
+    "theme/icons/sport.png",
+    "theme/icons/gallery.png",
+    "theme/icons/think_alt.png",
+    "theme/icons/present.png",
+    "theme/icons/pieces.png",
+    "theme/icons/discuss.png",
+    "theme/icons/activity.png",
+    "theme/icons/observe.png",
+    "theme/icons/letters.png",
+    "theme/icons/arts.png",
+    "theme/icons/download.png",
+    "theme/icons/case.png",
+    "theme/icons/listen.png",
+    "theme/icons/collaborative.png",
+    "theme/icons/piece.png",
+    "theme/icons/play.png",
+    "theme/icons/start.png",
+    "theme/icons/agreement.png",
+    "theme/icons/passport.png",
+    "theme/icons/file.png",
+    "theme/icons/competencies.png",
+    "theme/icons/chrono.png",
+    "theme/icons/draw.png",
+    "theme/icons/nature.png",
+    "theme/icons/technology.png",
+    "theme/icons/suitcase.png",
+    "theme/icons/explore.png",
+    "theme/icons/experiment.png",
+    "theme/icons/reflection.png",
+    "theme/icons/calculate.png",
+    "theme/icons/interactive.png",
+    "theme/icons/diary_alt.png",
+    "theme/icons/perform.png",
+    "theme/icons/diary.png",
+    "theme/icons/music.png",
+    "libs/jquery/jquery.min.js",
+    "libs/bootstrap/bootstrap.bundle.min.js",
+    "libs/bootstrap/bootstrap.min.css",
+    "libs/bootstrap/bootstrap.bundle.min.js.map",
+    "libs/bootstrap/bootstrap.min.css.map",
+    "libs/common.js",
+    "libs/common_i18n.js",
+    "libs/exe_export.js",
+    "libs/favicon.ico",
+    "libs/common_i18n.js",
+    "libs/fflate/fflate.umd.js",
+    "libs/exe_elpx_download/exe_elpx_download.js",
+    "idevices/text/exequextsq.svg",
+    "idevices/text/text.css",
+    "idevices/text/text.html",
+    "idevices/text/text.js",
+    "idevices/download-source-file/exequextsq.svg",
+    "idevices/download-source-file/download-source-file.js",
+    "idevices/download-source-file/download-package-licenses.png",
+    "idevices/download-source-file/download-source-file.css",
+    "content/resources/Asamblea de Lilo.png",
+    "content/resources/d0b963a4-4171-6c95-30b0-b4110f6b5a06.png",
+    "content/resources/Captura de pantalla 2026-05-02 110009.png",
+    "content/resources/c178917f-417d-3681-f82d-1eb8f7b8dcb4.png",
+    "content/resources/La asamblea de Lilo.png",
+    "content/resources/1a6340af-a54e-96d8-8e99-6e155108d22f.png",
+    "content/resources/Infografía Lilo.jpg",
+    "content/resources/60703e1d-15a5-0009-ebe0-03cee1eb5551.jpg",
+    "content/resources/Captura de pantalla 2026-05-06 165545.png",
+    "content/resources/e2194e4d-4c31-2543-64bb-46b2eca99b15.png",
+    "libs/elpx-manifest.js"
+  ],
+  "projectTitle": "La asamblea de Lilo"
 };
